@@ -1,0 +1,116 @@
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.exe
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.deps.json
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.runtimeconfig.json
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.runtimeconfig.dev.json
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.pdb
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csprojAssemblyReference.cache
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.Form1.resources
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csproj.GenerateResource.cache
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.AssemblyInfoInputs.cache
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.AssemblyInfo.cs
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csproj.CopyComplete
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.dll
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.pdb
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.genruntimeconfig.cache
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.kitchenDataGirdView.resources
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.DetaildFormForReservation.resources
+C:\Users\Kiro Abadier\source\repos\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.ReservationsDataGrid.resources
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.exe
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.deps.json
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.runtimeconfig.json
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.runtimeconfig.dev.json
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Hotel Reservation.pdb
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csprojAssemblyReference.cache
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.DetaildFormForReservation.resources
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.Form1.resources
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.kitchenDataGirdView.resources
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel_Reservation.ReservationsDataGrid.resources
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csproj.GenerateResource.cache
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.AssemblyInfoInputs.cache
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.AssemblyInfo.cs
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csproj.CoreCompileInputs.cache
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.csproj.CopyComplete
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.dll
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.pdb
+E:\Career\ITI\Material\Entity Framework\Day 2\Task\Hotel Reservation\Hotel Reservation\obj\Debug\netcoreapp3.1\Hotel Reservation.genruntimeconfig.cache
